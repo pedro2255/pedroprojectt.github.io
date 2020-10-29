@@ -1,0 +1,51 @@
+body {
+    background-color: teal;
+    color: black;    
+    font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(1, 100, 100);
+    border-radius: 15px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.541);
+    color: white;
+
+}
+
+section {
+    background-color: white;
+    padding: 120px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.527);
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+#p1 {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    border-radius: 15px;
+    font-style: italic;
+
+
+
+}
+
+#botao {
+    padding: 15px;
+    width: 100px;
+    font: normal 15pt Arial
+
+}
+
